@@ -1,0 +1,42 @@
+C:\Users\PIXEL-PC\Downloads\test\Project1\bin\Debug\Project1.exe
+C:\Users\PIXEL-PC\Downloads\test\Project1\bin\Debug\Project1.pdb
+C:\Users\PIXEL-PC\Downloads\test\Project1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PIXEL-PC\Downloads\test\Project1\bin\Debug\Interop.WMPLib.dll
+C:\Users\PIXEL-PC\Downloads\test\Project1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\hum.csproj.AssemblyReference.cache
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\Interop.WMPLib.dll
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\hum.csproj.ResolveComReference.cache
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\Project1.Forms.FormD.resources
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\Project1.Forms.FormN.resources
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\Project1.Recourses.Forms.FormNs.resources
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\Project1.Forms.FormY.resources
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\Project1.Forms.FormZ.resources
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\hum.csproj.GenerateResource.cache
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\hum.csproj.CoreCompileInputs.cache
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\hum.csproj.CopyComplete
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\Project1.exe
+C:\Users\PIXEL-PC\Downloads\test\Project1\obj\Debug\Project1.pdb
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\bin\Debug\Project1.exe
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\bin\Debug\Project1.pdb
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\bin\Debug\Interop.WMPLib.dll
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\hum.csproj.AssemblyReference.cache
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\Interop.WMPLib.dll
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\hum.csproj.ResolveComReference.cache
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\Project1.Forms.FormD.resources
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\Project1.Forms.FormN.resources
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\Project1.Recourses.Forms.FormNs.resources
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\Project1.Forms.FormY.resources
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\Project1.Forms.FormZ.resources
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\hum.csproj.GenerateResource.cache
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\hum.csproj.CoreCompileInputs.cache
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\hum.csproj.CopyComplete
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\Project1.exe
+C:\Users\PIXEL-PC\Downloads\oop project\Project1\obj\Debug\Project1.pdb
